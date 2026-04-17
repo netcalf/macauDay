@@ -80,7 +80,7 @@ In this example, the final summarized result is:
 
 Install dependencies with:
 
-```bash
+bash
 pip install pandas PyPDF2 openpyxl holidays
 
 
@@ -143,5 +143,5 @@ pip install pandas PyPDF2 openpyxl holidays
 
 安装命令：
 
-```bash
+bash
 pip install pandas PyPDF2 openpyxl holidays
